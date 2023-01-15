@@ -30,4 +30,4 @@ For the MVP, we just want to target DSA and System Design Interview prep.
 
 ### Marketing and Positioning
 
-- The platform will also consolidate free/cheap resources for preparation (YouTube playlists, not AlgoExpert subscriptions). This aligns with our position as an accessible, no-nonsense solution.
+- The platform will also consolidate free/cheap resources for preparation (YouTube playlists, not AlgoExpert subscriptions). This aligns with our position as an accessible, no-nonsense solution. See [this page](https://www.practiceinterviewstogether.com/services-7).
