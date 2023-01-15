@@ -32,3 +32,6 @@ For the MVP, we just want to target DSA and System Design Interview prep.
 ### Marketing and Positioning
 
 - The platform will also consolidate free/cheap resources for preparation (YouTube playlists, not AlgoExpert subscriptions). This aligns with our position as an accessible, no-nonsense solution. See [this page](https://www.practiceinterviewstogether.com/services-7).
+
+### Additional Features
+* People shouldn't have to put in their LinkedIn profile. There should be a basic level of anonymity, like in LeetCode. You have a profile, but it doesn't reflect anything about who you really are. Only keep info like YoE, Target Role, Interview Type, etc.
